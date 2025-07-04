@@ -2,7 +2,7 @@
 
 🚀 Skilled in:
 
-React JS, React Native (iOS & Android)
+React Native (iOS & Android) & Next JS
 
 Firebase, Redux, REST APIs
 
